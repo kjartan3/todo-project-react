@@ -1,14 +1,6 @@
 # React Todo List App
 This is a simple React app that allows you to create a todo list. You can add new tasks, mark tasks as completed, and delete tasks from the list. The app uses local storage to store the tasks, so they will persist even if you refresh the page.
 
-## Getting Started
-To get started with the app, you'll need to have Node.js installed on your machine. You can download it from the official website: https://nodejs.org/en/
-
-## Clone the repository to your local machine
-Open the project directory in your terminal
-Run npm install to install the project dependencies
-Run npm start to start the development server
-
 ## How to Use the App
 The app is very simple to use. There are two main components: the input form for adding new tasks, and the list of tasks that have already been added.
 
