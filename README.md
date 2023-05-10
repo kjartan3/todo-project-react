@@ -22,12 +22,16 @@ To mark a task as completed, click on the checkbox next to the task. The task wi
 To delete a task, click on the "X" button next to the task. The task will be removed from the list.
 
 ## Built With
-### React - A JavaScript library for building user interfaces
-### ReactDOM - A package that provides DOM-specific methods that can be used at the top level of your app
-### React Hooks - A feature introduced in React 16.8 that allows you to use state and other React features without writing a class
-### UUID - A package for generating unique identifiers
+React - A JavaScript library for building user interfaces
+
+ReactDOM - A package that provides DOM-specific methods that can be used at the top level of your app
+
+React Hooks - A feature introduced in React 16.8 that allows you to use state and other React features without writing a class
+
+UUID - A package for generating unique identifiers
 
 ## Author
-Your Name - Initial work - Your GitHub Profile Name
-Acknowledgments
+Kjartan Heimisson - React Todo Project - /kjartan3
+
+## Acknowledgments
 React Crash Course 2021 by Traversy Media - A tutorial video that helped me build this app.
